@@ -7,6 +7,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Kishanjha01/DSA-Journey/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0189-rotate-array) |
 | [0912-sort-an-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
@@ -16,6 +17,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kishanjha01/DSA-Journey/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,4 +46,8 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0912-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
