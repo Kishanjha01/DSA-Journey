@@ -8,6 +8,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | ------- |
 | [0001-two-sum](https://github.com/Kishanjha01/DSA-Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Kishanjha01/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Kishanjha01/DSA-Journey/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Kishanjha01/DSA-Journey/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0189-rotate-array) |
@@ -29,6 +30,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kishanjha01/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -85,4 +87,8 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kishanjha01/DSA-Journey/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Kishanjha01/DSA-Journey/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
