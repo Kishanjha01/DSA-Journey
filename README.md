@@ -16,6 +16,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | [0283-move-zeroes](https://github.com/Kishanjha01/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Kishanjha01/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0912-sort-an-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Kishanjha01/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,6 +66,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | [0075-sort-colors](https://github.com/Kishanjha01/DSA-Journey/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kishanjha01/DSA-Journey/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Kishanjha01/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,4 +93,8 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kishanjha01/DSA-Journey/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Kishanjha01/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
