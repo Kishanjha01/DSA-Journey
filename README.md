@@ -8,6 +8,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | ------- |
 | [0001-two-sum](https://github.com/Kishanjha01/DSA-Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Kishanjha01/DSA-Journey/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Kishanjha01/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Kishanjha01/DSA-Journey/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Kishanjha01/DSA-Journey/tree/master/0136-single-number) |
@@ -63,6 +64,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Kishanjha01/DSA-Journey/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Kishanjha01/DSA-Journey/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kishanjha01/DSA-Journey/tree/master/0283-move-zeroes) |
