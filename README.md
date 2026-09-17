@@ -11,6 +11,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | [0031-next-permutation](https://github.com/Kishanjha01/DSA-Journey/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Kishanjha01/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Kishanjha01/DSA-Journey/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Kishanjha01/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Kishanjha01/DSA-Journey/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kishanjha01/DSA-Journey/tree/master/0268-missing-number) |
@@ -74,6 +75,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kishanjha01/DSA-Journey/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Kishanjha01/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Kishanjha01/DSA-Journey/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Kishanjha01/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
@@ -100,4 +102,8 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishanjha01/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Kishanjha01/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
