@@ -23,6 +23,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | [0867-transpose-matrix](https://github.com/Kishanjha01/DSA-Journey/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kishanjha01/DSA-Journey/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1572-matrix-diagonal-sum](https://github.com/Kishanjha01/DSA-Journey/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishanjha01/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -121,4 +122,5 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | [0054-spiral-matrix](https://github.com/Kishanjha01/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kishanjha01/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Kishanjha01/DSA-Journey/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Kishanjha01/DSA-Journey/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
