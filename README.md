@@ -20,6 +20,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | [0268-missing-number](https://github.com/Kishanjha01/DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kishanjha01/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Kishanjha01/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0867-transpose-matrix](https://github.com/Kishanjha01/DSA-Journey/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kishanjha01/DSA-Journey/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishanjha01/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -107,6 +108,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kishanjha01/DSA-Journey/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Kishanjha01/DSA-Journey/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishanjha01/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -118,4 +120,5 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | [0048-rotate-image](https://github.com/Kishanjha01/DSA-Journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kishanjha01/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kishanjha01/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/Kishanjha01/DSA-Journey/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
