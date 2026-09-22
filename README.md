@@ -26,6 +26,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | [1572-matrix-diagonal-sum](https://github.com/Kishanjha01/DSA-Journey/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishanjha01/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kishanjha01/DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Kishanjha01/DSA-Journey/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,6 +88,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | [0268-missing-number](https://github.com/Kishanjha01/DSA-Journey/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Kishanjha01/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kishanjha01/DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Kishanjha01/DSA-Journey/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
