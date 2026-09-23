@@ -14,6 +14,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | [0054-spiral-matrix](https://github.com/Kishanjha01/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kishanjha01/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Kishanjha01/DSA-Journey/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Kishanjha01/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Kishanjha01/DSA-Journey/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0189-rotate-array) |
@@ -48,6 +49,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kishanjha01/DSA-Journey/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Kishanjha01/DSA-Journey/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -76,6 +78,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Kishanjha01/DSA-Journey/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Kishanjha01/DSA-Journey/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kishanjha01/DSA-Journey/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishanjha01/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
