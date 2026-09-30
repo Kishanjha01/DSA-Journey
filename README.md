@@ -16,6 +16,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | [0075-sort-colors](https://github.com/Kishanjha01/DSA-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Kishanjha01/DSA-Journey/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Kishanjha01/DSA-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Kishanjha01/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Kishanjha01/DSA-Journey/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0189-rotate-array) |
@@ -119,6 +120,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kishanjha01/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Kishanjha01/DSA-Journey/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Kishanjha01/DSA-Journey/tree/master/0119-pascals-triangle-ii) |
 ## Simulation
 |  |
 | ------- |
