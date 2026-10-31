@@ -34,6 +34,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishanjha01/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kishanjha01/DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Kishanjha01/DSA-Journey/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Kishanjha01/DSA-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,6 +85,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | ------- |
 | [0169-majority-element](https://github.com/Kishanjha01/DSA-Journey/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0912-sort-an-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Kishanjha01/DSA-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +111,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | [0560-subarray-sum-equals-k](https://github.com/Kishanjha01/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kishanjha01/DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Kishanjha01/DSA-Journey/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Kishanjha01/DSA-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
