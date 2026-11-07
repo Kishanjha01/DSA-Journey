@@ -29,6 +29,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | [0268-missing-number](https://github.com/Kishanjha01/DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kishanjha01/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishanjha01/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kishanjha01/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/Kishanjha01/DSA-Journey/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0912-sort-an-array) |
@@ -123,6 +124,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Kishanjha01/DSA-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishanjha01/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
