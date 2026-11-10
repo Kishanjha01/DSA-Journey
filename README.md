@@ -34,6 +34,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | [0867-transpose-matrix](https://github.com/Kishanjha01/DSA-Journey/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kishanjha01/DSA-Journey/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kishanjha01/DSA-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1572-matrix-diagonal-sum](https://github.com/Kishanjha01/DSA-Journey/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishanjha01/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kishanjha01/DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -125,6 +126,7 @@ All the Codes I Code Towards My DSA Journey. Will Be Pushed Here
 | [0268-missing-number](https://github.com/Kishanjha01/DSA-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishanjha01/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kishanjha01/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kishanjha01/DSA-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Prefix Sum
 |  |
 | ------- |
